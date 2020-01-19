@@ -1,0 +1,43 @@
+
+body {
+  margin: 50px;
+  background-color: #00B7D4;
+  text-align: center;
+  font-size: 26px;
+  font-family: Andale Mono, monospace	;
+
+
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 5px;
+  color: black;
+
+
+
+}
+
+h2 {
+  margin: 170px;
+  font-size: 40px;
+  color: #161569
+
+
+}
+
+
+
+button {
+  margin:20px;
+  background-color: #2F3F80;
+  border-radius: 12px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
